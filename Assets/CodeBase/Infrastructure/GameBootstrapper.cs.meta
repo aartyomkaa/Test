@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e85db4e1afe14d598b5a0987881d0123
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _curtainPrefab: {fileID: 8713324141352661597, guid: 34ac9e12a35f06e4fab8450a3d68c6b1,
+      type: 3}
+  executionOrder: -500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
